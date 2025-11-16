@@ -4,7 +4,7 @@
 
 This repository contains the practical implementation files for the **Computer Science Fundamentals & Career Pathways** course assignment on Linux Basics and Open-Source Tools.
 
-The project demonstrates proficiency in setting up a Linux environment, executing core command-line functions, and automating tasks using shell scripting. It utilizes Ubuntu (installed via **VirtualBox**) and involves developing three essential shell automation scripts.
+The project demonstrates proficiency in setting up a Linux environment, executing core command-line functions, and automating tasks using shell scripting. It utilizes Kali (installed via **VirtualBox**) and involves developing three essential shell automation scripts.
 
 ## Scripts Description
 
